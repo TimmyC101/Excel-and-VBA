@@ -1,4 +1,4 @@
-# Excel-and-VBA
+# Excel and VBA
 
 ## Well Monitoring Tool
 
@@ -8,7 +8,7 @@ Before this tool, Chevron's technologists would spend around 30 minutes per day 
 
 To view the spreadsheet in its entirety, please click on the Excel spreadsheet within the repository.
 
-# VBA Code
+## VBA Code
 
 Sub Macro()
 
